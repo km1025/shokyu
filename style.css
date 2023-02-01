@@ -10,10 +10,6 @@ body {
   clear: both;
 }
 
-.flex {
-  display: flex;
-}
-
 .red--box {
   width: 400px;
   height: 100px;
